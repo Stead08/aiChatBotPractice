@@ -1,4 +1,4 @@
-# aiChatBotP
+# aiChatBot
 適当に返答するAIです。リクルート社の会話AIのAPIを叩いて返答を返す。  
 
 # 仕組み
